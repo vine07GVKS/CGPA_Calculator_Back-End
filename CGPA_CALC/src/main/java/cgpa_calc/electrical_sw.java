@@ -140,7 +140,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -689,7 +689,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -864,7 +864,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -1081,7 +1081,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -1335,7 +1335,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -1629,7 +1629,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -1974,7 +1974,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -2364,7 +2364,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -2778,7 +2778,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -3082,7 +3082,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -3181,7 +3181,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -3318,7 +3318,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -3496,7 +3496,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -3709,7 +3709,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -3969,7 +3969,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
@@ -4272,7 +4272,7 @@ public class electrical_sw {
                                 System.out.println();
                                 System.out.print("Network Theory :");
                                 int sub41 = num.nextInt();
-                                System.out.print("Electric Circuits :");
+                                System.out.print("Electronic Circuits :");
                                 int sub42 = num.nextInt();
                                 System.out.print("Probability And Statistics :");
                                 int sub43 = num.nextInt();
